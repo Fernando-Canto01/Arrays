@@ -1,0 +1,14 @@
+C:\Users\canto\source\repos\Pila\Pila\bin\Debug\net7.0\Pila.exe
+C:\Users\canto\source\repos\Pila\Pila\bin\Debug\net7.0\Pila.deps.json
+C:\Users\canto\source\repos\Pila\Pila\bin\Debug\net7.0\Pila.runtimeconfig.json
+C:\Users\canto\source\repos\Pila\Pila\bin\Debug\net7.0\Pila.dll
+C:\Users\canto\source\repos\Pila\Pila\bin\Debug\net7.0\Pila.pdb
+C:\Users\canto\source\repos\Pila\Pila\obj\Debug\net7.0\Pila.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\canto\source\repos\Pila\Pila\obj\Debug\net7.0\Pila.AssemblyInfoInputs.cache
+C:\Users\canto\source\repos\Pila\Pila\obj\Debug\net7.0\Pila.AssemblyInfo.cs
+C:\Users\canto\source\repos\Pila\Pila\obj\Debug\net7.0\Pila.csproj.CoreCompileInputs.cache
+C:\Users\canto\source\repos\Pila\Pila\obj\Debug\net7.0\Pila.dll
+C:\Users\canto\source\repos\Pila\Pila\obj\Debug\net7.0\refint\Pila.dll
+C:\Users\canto\source\repos\Pila\Pila\obj\Debug\net7.0\Pila.pdb
+C:\Users\canto\source\repos\Pila\Pila\obj\Debug\net7.0\Pila.genruntimeconfig.cache
+C:\Users\canto\source\repos\Pila\Pila\obj\Debug\net7.0\ref\Pila.dll
